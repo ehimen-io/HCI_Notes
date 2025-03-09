@@ -19,9 +19,6 @@ In this lesson we cover the following on mental models and representations:
 - Mental models are not unique to HCI. Also in Edtech. No stand and explanation
 - Good representaion show how system works. But very challenging
 
-## Model model in climate control system
-- David's old and new car - Both I dint get a thing. Sadly I dont have one!!
-
 ## 5 Tips: Mental Models For Learnable Interfaces
 
 Below are five tips to leverage for creating learnable interfaces: (Dix et al)

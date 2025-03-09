@@ -18,6 +18,10 @@ This model proposes that a human has a set of _goals_ and _methods_ they can cho
 
 Ex - Transfer information to coworkers - Email, chat, In person, etc.
 
+![image-20250308125348836](/home/owensehimen/.config/Typora/typora-user-images/image-20250308125348836.png)
+
+![image-20250308125504750](/home/owensehimen/.config/Typora/typora-user-images/image-20250308125504750.png)
+
 ## Strengths And Weaknesses Of GOMS
 
 Weaknesses of GOMS model:
@@ -32,16 +36,25 @@ Strengths of GOMS model:
 
 ### Types of GOMS
 KLM - GOMS -> Keystroke level model
-	- here operator + execution time - efficiency determination
-	- original work had 6 types of operators, wont work on modern ideas
+- here operator + execution time - efficiency determination,
+
+- original work had 6 types of operators, wont work on modern ideas
+
+  
+
 Card, Moran and Newell GOMS *CMN GOMS*
-	- Hierarchical Goals and choose multiple goals
-	- Very low level goals (moving text,delete phrases)
-	- Model how long each individual GOMS to take
-		- Find place which we can cut out
-N GOMSL - Natural language GOMS
-	- Working memory if exploited can be identified
-	- lends itself for human interpretation.
+- Hierarchical Goals and choose multiple goals
+  - Very low level goals (moving text,delete phrases)
+  - Model how long each individual GOMS to take
+    - Find place which we can cut out
+    - 
+
+N GOMSL - Natural GOMS Language
+
+- Working memory if exploited can be identified
+- lends itself for human interpretation.
+
+
 
 ## 5 Tips: Developing GOMS Models
 
@@ -89,9 +102,13 @@ Cognitive task analysis are concerned with the underlying thought process associ
 5. Format results for intend application
 	- We take results and models user.
 
+![image-20250308132148033](/home/owensehimen/.config/Typora/typora-user-images/image-20250308132148033.png)
+
 Result looks like a flow chart, with various tasks in each box.
 
 ## Hierarchical Task Analysis
+
+![image-20250308132346973](/home/owensehimen/.config/Typora/typora-user-images/image-20250308132346973.png)
 
 Tasks could be broken and small tasks could be reused. 
 
@@ -113,7 +130,7 @@ Strengths:
 	- Unlike GOMS, emphasis on whats goes on users head
 2. Formal enough to for interface design
 	- Easy to communicate
-Weaknesses:
+	Weaknesses:
 
 1. Time-intensive - They involve talking and systemtic analysis of data
 2. May deemphasize context - Role of artifacts and details in world

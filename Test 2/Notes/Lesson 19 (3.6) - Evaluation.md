@@ -37,12 +37,16 @@ Important things needed to address the research.
 
 Change in evaluation with time, The evaluation timeline usually is as follows:
 
+![image-20250308164707485](/home/owensehimen/.config/Typora/typora-user-images/image-20250308164707485.png)
+
 Regarding purpose:
 
 1. **Formative** - primary purpose is to help redesign and improve our interface
 2. **Summative** - the intention of conclusively saying at the end what the difference was
 
 Regarding approach: Ways to fullfill purpose
+
+![image-20250308164748314](/home/owensehimen/.config/Typora/typora-user-images/image-20250308164748314.png)
 
 1. Qualitative - the goal is to help us improve and understand tasks
 2. Predictive - inform how we revise and improve our interface over time (Similar to qualitive evaluation)
@@ -114,14 +118,13 @@ Options to capture qualitative evaluation:
 4. Instruct users what to do, not how - Reduce bias
 5. Capture satisfaction - Do they like it?
 
-## Empirical Evaluation
+## Empirical Evaluation (Quantitiative, Comparisons)
 
 - Something numerical is evaluation? What layout of button is useful?
 - Comparing design and showing imprvement in industry.
 - Build new theories (gesture has tuf curve than voice)
 - How can we show there is a difference between these designs?
 - The goal of empirical evaluation is to come up with strong conclusions. Most empirical evaluations are comparisons. 
-- In qualitive eval we get ppl  one after another.
 
 ## Designing Empirical Evaluation
 
@@ -158,8 +161,8 @@ Recall that there are a number of tests for quantitative data:
 	- Where is the difference?
 - ANOVA and Kruskal Wallis (Interval and Ratio)
 	- Where is the difference?
-Independent variable is Mostly categorical. GPA is interval data.
-Binomial Data - Two sample binomial test
+	Independent variable is Mostly categorical. GPA is interval data.
+	Binomial Data - Two sample binomial test
 
 ## Summary Of Empirical Tests
 
